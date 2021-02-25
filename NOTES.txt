@@ -1,0 +1,5 @@
+The latest working code
+Last modified: 26/02/2021
+
+NOTES
+When calculating toqure, ignore end wall effect
